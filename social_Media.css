@@ -1,7 +1,7 @@
 /*Sources of Errors: positioning of Propic and search bar moves as window is made smaller*/
 #search{
  position: absolute;
- top: 40%;
+ top: 20%;
     left: 35%;
     
 }
